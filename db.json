@@ -34,5 +34,196 @@
         "bgImage": "",
         "status": true
     }
-  ]
+  ],
+  "header": [
+    {
+        "id":1,
+        "title":"Umarım güzel bir gün geçiriyorsundur.",
+        "img":"http://www.omersaitoglu.epizy.com/api/file/images/3D/boymeditating.png",
+        "time": [6,7,8,9,10,11],
+        "status":true
+    },
+    {
+        "id":2,
+        "title":"Gün ortası gelmiş bile :)",
+        "img":"http://www.omersaitoglu.epizy.com/api/file/images/3D/womanmeditating.png",
+        "time": [12,13,14,15,16,17],
+        "status":true
+    },
+    {
+        "id":3,
+        "title":"Hava açık ise gün batımı izlemek güzel olabilir veya belkide yağmurları...",
+        "img":"http://www.omersaitoglu.epizy.com/api/file/images/3D/womansmartphone.png",
+        "time": [18,19,20,21],
+        "status":true
+    },
+    {
+        "id":4,
+        "title":"Güzel düşüncelere dalmak için iyi bir gece olabilir.",
+        "img":"http://www.omersaitoglu.epizy.com/api/file/images/3D/boyplaysguitar.png",
+        "time": [22,23,0,1,2,3,4,5],
+        "status":true
+    }
+],
+  "story": [
+    {
+    "id": 1,
+    "category":"Başarı Hikayesi",
+    "title": "Büyük düşünün, küçük başlayın",
+    "overView":"Steve Jobs, 24 Şubat 1955 tarihinde Wisconsin’de dünyaya gözlerini açtı. Dünyaya geldikten 1 hafta sonra eğitimli bir aileye evlatlık olarak verildi. Yeni ebeveynleri ise Paul Jobs ve Clara Jobs oldu. Lise öğrenimini Kaliforniya Cupertino da sürdürürken, aynı zamanda da Hewlett-Packard merkezindeki eğitimlere katılan Steve Jobs, kısa bir zaman sonra yaz stajına da kabul edildi.Liseyi tamamlayan Jobs, daha sonra Reed College’a eğitim için başladı. Üniversite yıllarında ailesine yük olduğunu düşünen Jobs, üniversite eğitimini yarıda bıraktı. Bıraktıktan sonra istediği derslere girmeye devam etti. Zaten başarısının da temeli buradan geliyor. Girdiği dersler aracılığı ile iyi bir kaligrafi dersi alan Jobs, yaratıcılığının başarısını kaligrafiye borçlu olduğunu da dile getiriyor.Daha sonra çeşitli firmalarda çalışan Steve Jobs, 1978 yılında Wozniak ile birlikte Apple adındaki firmayı kurdu ve Personal Computing Festivali’nde sergiledi. Daha sonra hızlı bir yükseliş yakalayan Apple şirketine, yatırımcı bir ortak da alındı. Yatırımcının alınması ile birlikte işleri iyice büyüten Jobs, Ceoluğa Scully’i atadı. 1984’e doğru firmanın gelirlerinde düşüş yaşanması ve yaşanılan aksaklıklar  sebebi ile 1985 yılında Jobs kurduğu firmadan kovuldu.Kovulduktan sonra kendi şirketini kuran Jobs, pek ilgi göremedi. Çünkü, kurduğu Next şirketi, sadece yüksek zümreye hitap eden lüks bir yapıdaydı. Zamanın ilerlemesi ile birlikte 1996 yılında Next firması 429 milyon dolara Apple’a satıldı ve Steve Jobs, bir bakıma Apple’a yeniden dönmüş oldu. Tekrar Apple’a döndükten sonra firma tekrardan yükselişe geçti. Alanında yaptığı yenilikler ile dünyaya damga vuran Jobs, 2011 yılında sağlık sorunları sebebi ile vefat etti.",
+    "author":"Steve Jobs",
+    "level":1,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    }
+],
+  "suggestion":[
+    {
+    "id": 1,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Sakin bir yerde gün batımını izle ve hayal kur!",
+    "level":1,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    },
+    {
+    "id": 2,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Üç defa derin bir nefes al ve kendine güzel bir söz söyle.",
+    "level":1,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    },
+    {
+    "id": 3,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Uyumadan evvel şükretmek için üç sebep bul!",
+    "level":2,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    },
+    {
+    "id": 4,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Çok sevdiğin veya ihtiyacın olan bir şeyi birisine hediye et.",
+    "level":1,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    },
+    {
+    "id": 5,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Güzel bir şey gördüğün zaman panik içinde cep telefonunu çıkarıp fotoğraf veya video çekmeye çalışma. Kendin seyret ve keyfini çıkar.",
+    "level":2,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    },
+    {
+    "id": 6,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Hadi durma anneni veya babanı ziyaret et!",
+    "level":1,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    },
+    {
+    "id": 7,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Ansızın bir arkadaşını ara ve güzel bir vakit geçirin.",
+    "level":1,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    },
+    {
+    "id": 8,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Hobilerinden birini yap: Örneğin balık tutmak, spor yapmak gibi.",
+    "level":1,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    },
+    {
+    "id": 9,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Güzel vakit geçirdiğin bir anını düşün.",
+    "level":2,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    },
+    {
+    "id": 10,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Seni çok mutlu eden bir rüyanı hatırlamaya çalış.",
+    "level":1,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    },
+    {
+    "id": 11,
+    "subTitle":"Kendim İçin Öneri",
+    "title": "Yanında biri varsa, güzel bir söz söyle.",
+    "level":1,
+    "bgHexColor": "#6F9CCE",
+    "bgImage": "",
+    "status": true
+    }
+],
+  "words":[
+    {
+        "id": 1,
+        "title":"Eğer aşağıya bakarsanız gökkuşağını asla göremezsiniz",
+        "author":"",
+        "level":2,
+        "bgHexColor":"#5F6676",
+        "bgImage":"",
+        "status": true
+    },
+    {
+        "id": 2,
+        "title":"Dahiler, çağlarını aydınlatmak için yanmaya mahkûm göktaşlarıdır.",
+        "author":"",
+        "level":1,
+        "bgHexColor":"#5F6676",
+        "bgImage":"",
+        "status": true
+    },
+    {
+        "id": 3,
+        "title":"Uçmayı çok seviyorsan, bazen düşmesini de bileceksin.",
+        "author":"",
+        "level":1,
+        "bgHexColor":"#5F6676",
+        "bgImage":"",
+        "status": true
+    },
+    {
+        "id": 4,
+        "title":"İnsanlar seninle konuşmayı bıraktığında, arkandan konuşmaya başlarlar...",
+        "author":"",
+        "level":1,
+        "bgHexColor":"#5F6676",
+        "bgImage":"",
+        "status": true
+    },
+    {
+        "id": 5,
+        "title":"Kar tanelerinde muhteşem bir anlam gizlidir, o da birbirine zarar vermeden yol almanın mümkün olmasıdır.",
+        "author":"",
+        "level":2,
+        "bgHexColor":"#5F6676",
+        "bgImage":"",
+        "status": true
+    }
+]
 }
