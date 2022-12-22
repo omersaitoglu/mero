@@ -5,34 +5,103 @@
         "title":"Sözler",
         "bgHexColor": "#FFFFFF",
         "bgImage": "",
-        "status": true
+        "status": true,
+        "type": "home"
     },
     {
         "id":1,
         "title":"Hikayeler",
         "bgHexColor": "#FFFFFF",
         "bgImage": "",
-        "status": true
+        "status": true,
+      "type": "home"
     },
     {
         "id":2,
         "title":"Öneriler",
         "bgHexColor": "#FFFFFF",
         "bgImage": "",
-        "status": true
+        "status": true,
+      "type": "home"
     },{
         "id":3,
         "title":"Biliyor musunuz?",
         "bgHexColor": "#FFFFFF",
         "bgImage": "",
-        "status": true
+        "status": true,
+      "type": "home"
     },
     {
         "id":4,
         "title":"Görseller",
         "bgHexColor": "#FFFFFF",
         "bgImage": "",
-        "status": true
+        "status": true,
+      "type": "home"
+    },
+    {
+        "id":5,
+        "title":"Etkileyici",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "words"
+    },
+    {
+        "id":6,
+        "title":"Anlamlı",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "words"
+    },
+    {
+        "id":7,
+        "title":"Aşk",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "words"
+    },
+    {
+        "id":8,
+        "title":"Nasihat",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "words"
+    },
+    {
+        "id":9,
+        "title":"Başarı",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "story"
+    },
+    {
+        "id":10,
+        "title":"Başarısız Olma",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "story"
+    },
+    {
+        "id":11,
+        "title":"Düşündüren-Etkileyici",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "story"
+    },
+    {
+        "id":12,
+        "title":"Dini",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "story"
     }
   ],
   "header": [
