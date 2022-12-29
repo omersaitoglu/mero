@@ -124,15 +124,6 @@
         "status": true,
         "type": "suggestions",
       "subMenu":""
-    },
-    {
-        "id":14,
-        "title":"Başkası İçin",
-        "bgHexColor": "#FFFFFF",
-        "bgImage": "",
-        "status": true,
-        "type": "suggestions",
-      "subMenu":""
     }
   ],
   "header": [
