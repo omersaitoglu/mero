@@ -133,15 +133,6 @@
         "status": true,
         "type": "suggestions",
       "subMenu":""
-    },
-    {
-        "id":15,
-        "title":"Az Bilinenler",
-        "bgHexColor": "#FFFFFF",
-        "bgImage": "",
-        "status": true,
-        "type": "dyKnow",
-      "subMenu":""
     }
   ],
   "header": [
