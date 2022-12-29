@@ -115,6 +115,42 @@
         "status": true,
         "type": "storys",
       "subMenu":""
+    },
+    {
+        "id":13,
+        "title":"Kendim İçin Bir Öneri",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "suggestions",
+      "subMenu":""
+    },
+    {
+        "id":14,
+        "title":"Başkası İçin",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "suggestions",
+      "subMenu":""
+    },
+    {
+        "id":15,
+        "title":"Az Bilinenler",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "dyKnow",
+      "subMenu":""
+    },
+    {
+        "id":16,
+        "title":"İlginç Olanlar",
+        "bgHexColor": "#FFFFFF",
+        "bgImage": "",
+        "status": true,
+        "type": "dyKnow",
+      "subMenu":""
     }
   ],
   "header": [
