@@ -142,15 +142,6 @@
         "status": true,
         "type": "dyKnow",
       "subMenu":""
-    },
-    {
-        "id":16,
-        "title":"İlginç Olanlar",
-        "bgHexColor": "#FFFFFF",
-        "bgImage": "",
-        "status": true,
-        "type": "dyKnow",
-      "subMenu":""
     }
   ],
   "header": [
